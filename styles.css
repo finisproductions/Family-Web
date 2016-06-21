@@ -1,0 +1,225 @@
+@charset "utf-8";
+* {
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+body {
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+	background: url(image/bg.png) repeat;
+	color: #000;
+	font-family: 'Poiret One', cursive;
+}
+
+.header {
+	margin-top: 10px;
+	padding: 0; 
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.header h1 {
+	text-shadow: 2px 1px #fff;
+	color: #993333;
+	font-size: 300%;
+	font-weight: bold;
+	text-align: center;
+}
+.subhead {
+	margin: 10px 5% 10px 5%;
+	width: 90%;
+	color: #333333;
+	font-size: 175%;
+	text-align: center;
+}
+.msg {
+	margin-left: 10px;
+	width: 80%;
+	color: #333333;	
+	font-size: 225%;
+	text-align: left;
+}
+
+.sidebar {
+	width: 20%;
+	padding-right: 10px;
+	float:left;
+	border-right: thin solid #993333;
+}
+
+.sidebar ul {
+	list-style: none;
+	text-align:right;
+}
+.sidebar li {
+	font-size: 125%;
+	padding-right: 10px;
+	font-weight: bold;
+}
+.content {
+	width: 75%;
+	padding-right: 10px;
+	padding-left: 20px;
+	float:left;
+}
+
+.content table {
+	width: 100%;
+	font-family: 'Oxygen Mono';
+	font-size: 90%;
+}
+.content h2 {
+	margin-bottom: 10px;
+}
+.t_from {
+	width: 15%;
+}
+.t_task{
+	width: 65%;
+}
+.t_done {
+	width: 15%;
+}
+.t_id {
+	width: 5%;
+}
+.newmessage {
+	width: 100%;
+	float: left;
+}
+
+.addtask  {
+	width: 100%;
+}
+
+.tblstyled tr {
+	line-height: 125%;
+	background: rgba(255,255,255,0.5);
+
+}
+
+.tblstyled tr th {
+	font-size: 115%;
+	line-height: 125%;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 10px;
+}
+
+.tblstyled tr td {
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-top: 5px;
+}
+
+
+.largeText {
+	width: 90%;
+	float: left;
+}	
+
+.oneFifth {
+	width: 20%;
+	margin: 0;
+	padding: 0;
+}	
+.fourFifths{
+	width: 80%;
+	margin: 0;
+	padding: 0;
+}	
+.tblLabel {
+	width: 20%;
+	font-size: 150%;
+	float: left;
+}	
+.tblContent{
+	width: 75%;
+	float: left;
+	display:block;
+}	
+.tblInput {
+	width: 90%;
+	float: left;
+}	
+.btnLeft {
+	width: 40%;
+	margin-right: 60%;
+}
+.btnCenter{
+	width: 50%;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
+a {
+	color: #999;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #666;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+.indent {
+	margin: 0 0 0 40px;	
+}
+
+input {
+	border: 5px solid white;
+	background: rgba(255,255,255,0.5);
+	width: 60%;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 10px;
+	margin-left: 0;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	font-size: 80%;
+	color: #000;
+	font-weight: bold;
+	display: block; 
+	float: right;
+}
+label {
+	width: 20%;
+	font-size: 140%;
+	color: #993333;
+	text-align: left;
+	float: left;
+	
+} 
+input button {
+	width: 30%;
+	display: block; 
+	float: right;
+}
+
+.login{
+	width: 30%;
+	margin-left: 35%;
+	margin-right: 35%;
+	color: #000;
+	float: left;
+}
+
+.foot {
+		width: 45%;
+		margin-left: 25%;
+		margin-right:25%;
+}
+
+.clear {
+	clear:both;
+}
