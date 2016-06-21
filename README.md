@@ -23,7 +23,7 @@ You can access the live demo for Family Web at the following address:
 
 You can login using the sample credentials used below. The admin account has full access to manage data and users, so please do not delete or modify these two sample accounts. I will try to implement a reset button which would drop all table entries except the demo info at a later date. 
 
-**Demo Logins:**
+###**Demo Logins:**
 
 **Admin Login Credential**
 
