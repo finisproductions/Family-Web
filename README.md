@@ -33,9 +33,7 @@ You can login using the sample credentials used below. The admin account has ful
 
   **email:** demoadmin@example.com
 
-  **password:** password
-
-
+  **password:** password  
 
 
 **User Login Credential**
@@ -44,7 +42,7 @@ You can login using the sample credentials used below. The admin account has ful
 
 **email:** jdoe@me.com
 
-**password:** password
+**password:** password  
 
 ##**Technology:** 
 PHP, HTML, CSS MySQL, Apache 
