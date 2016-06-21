@@ -1,7 +1,7 @@
 # Family-Web
 ##**Family Web** - A PHP / HTML / CSS project
 ###Created for CIS166AE by *Cristobal Romero*
-![Cris Romero Avatar](http://crisromero.com/cris-romero-avatar.jpg "Cris Romero Avatar")
+![Cris Romero Avatar](http://crisromero.com/cris-romero-avatar-small.jpg "Cris Romero Avatar")
 
 ---------------------------------------
 ##**Summary:** 
