@@ -51,6 +51,7 @@ $html .= "<div class='login'>\n";
 $html .= "<p><input type='submit' name='submit' value='Login'></p>\n";
 $html .= "</form>\n";
 $html .= "</div>\n";
+$html .= "<div class='footer'>Copyright 2016 | Cristobal Romero </div>"
 //$html .= "<p><a href='password.php'>Forgot your password?</a></p>\n";
 switch ($_GET["msg"])
 	{ 
