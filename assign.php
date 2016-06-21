@@ -81,7 +81,7 @@ try //New Tasks
 </form>
 </table>
 </div>
-<div id="footer">Copyright 2014 Cris Romero</div>
+<div class="footer clear">Copyright 2014 Cris Romero</div>
 </body>
 </html>
 

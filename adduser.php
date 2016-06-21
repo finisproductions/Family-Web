@@ -98,6 +98,6 @@ try
 </form>
 </table>
 
-
+<div class="footer clear">Copyright 2014 Cris Romero</div>
 </body>
 </html>

@@ -72,11 +72,10 @@ try // New Message
 <input type='submit' name='submit' value='Send Message' class='btnLeft'>
 </td>
 </tr>
-</table>
 </form>
+</table>
 </div>
-
-
+<div class="footer clear">Copyright 2014 Cris Romero</div>
 </body>
 </html>
 

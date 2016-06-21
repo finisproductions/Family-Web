@@ -79,6 +79,7 @@ try // Display Messages
 
 <?php echo $html; ?>
 <div class='clear'></div>
+<div class="footer clear">Copyright 2014 Cris Romero</div>
 </body>
 </html>
 

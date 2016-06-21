@@ -57,6 +57,6 @@ try
 ?>
 
 <?php echo $html; ?>
-
+<div class="footer clear">Copyright 2014 Cris Romero</div>
 </body>
 </html>

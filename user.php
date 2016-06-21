@@ -35,7 +35,7 @@ switch ($_GET["msg"])
 <?php echo $html; ?>
 <?php echo $msgdisplay; ?>
 </div>
-
+<div class="footer clear">Copyright 2014 Cris Romero</div>
 </body>
 </html>
 
