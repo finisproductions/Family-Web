@@ -3,11 +3,9 @@
 ###Created for CIS166AE by *Cristobal Romero*
 ![Cris Romero Avatar](http://crisromero.com/cris-romero-avatar-small.jpg "Cris Romero Avatar")
 
----------------------------------------
 ##**Summary:** 
 This project was created for a Final Project while I was taking  "Web Scripting with PHP: Hypertext Preprocessor (PHP) (CIS166AE)" at Scottsdale Community College. 
 
----------------------------------------
 ##**Scope:** 
 This project was conceived and designed to showcase a variety of code learned and practiced during the course including: 
 - Creating and using variables
@@ -18,7 +16,6 @@ This project was conceived and designed to showcase a variety of code learned an
 - Conditional logic and basic object constructs
 - Debugging and testing the application. 
 
----------------------------------------
 ##**Demo Installation:** 
 You can access the live demo for Family Web at the following address: 
 
@@ -38,15 +35,12 @@ You can login using the sample credentials used below. The admin account has ful
 **email:** jdoe@me.com
 **password:** password
 
----------------------------------------
 ##**Technology:** 
 PHP, HTML, CSS MySQL, Apache 
 
----------------------------------------
 ##**Dependencies:** 
 PHP, MySQL Database (sample to be added)
 
----------------------------------------
 ##**License:** 
 Portions of the code to construct this project were created or edited during the CIS166AE Course and all code was modified to suit the application - therefore I am licensing this application as open-source withh attribution. (More specifics on this as soon as I research the subject.)
 
