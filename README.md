@@ -25,15 +25,23 @@ You can login using the sample credentials used below. The admin account has ful
 
 **Demo Logins:**
 
-*Admin Login Credential*
+**Admin Login Credential**
+
 **Name:** Demo Admin
+
 **email:** demoadmin@example.com
+
 **password:** password
 
-*User Login Credential*
+
+**User Login Credential**
+
 **Name:** John Doe
+
 **email:** jdoe@me.com
+
 **password:** password
+
 
 ##**Technology:** 
 PHP, HTML, CSS MySQL, Apache 
